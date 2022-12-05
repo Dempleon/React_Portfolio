@@ -1,14 +1,11 @@
 import React, {useState} from 'react';
 
-export default function Project (){
-
+export default function Resume() {
     return (
         <div>
             <p>
-                this is the projects page
+                this is my resume page
             </p>
         </div>
     )
-   
 }
-
