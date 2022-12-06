@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.6416df5c.css",
-    "main.js": "/React_Portfolio/static/js/main.fbcbb04f.js",
+    "main.css": "/React_Portfolio/static/css/main.99607956.css",
+    "main.js": "/React_Portfolio/static/js/main.c05903e3.js",
     "static/media/profile_pic.jpg": "/React_Portfolio/static/media/profile_pic.967f2f6a3d9586d39b95.jpg",
+    "static/media/homr-home-page.JPG": "/React_Portfolio/static/media/homr-home-page.4946aba3f4407e0b00cc.JPG",
+    "static/media/weatherdashboard.JPG": "/React_Portfolio/static/media/weatherdashboard.818b19a659005b9ac9e1.JPG",
+    "static/media/workday-scheduler.JPG": "/React_Portfolio/static/media/workday-scheduler.8871cb0acb28e9bf974d.JPG",
+    "static/media/teamprofilegenerator.JPG": "/React_Portfolio/static/media/teamprofilegenerator.58231318276eec0814f8.JPG",
+    "static/media/legenesis_logo.JPG": "/React_Portfolio/static/media/legenesis_logo.33bc74637522c6bef680.JPG",
     "index.html": "/React_Portfolio/index.html",
-    "main.6416df5c.css.map": "/React_Portfolio/static/css/main.6416df5c.css.map",
-    "main.fbcbb04f.js.map": "/React_Portfolio/static/js/main.fbcbb04f.js.map"
+    "main.99607956.css.map": "/React_Portfolio/static/css/main.99607956.css.map",
+    "main.c05903e3.js.map": "/React_Portfolio/static/js/main.c05903e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6416df5c.css",
-    "static/js/main.fbcbb04f.js"
+    "static/css/main.99607956.css",
+    "static/js/main.c05903e3.js"
   ]
 }
