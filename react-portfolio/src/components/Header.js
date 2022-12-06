@@ -1,23 +1,30 @@
 import React, { useState } from 'react';
 import Navigation from './Navigation';
+import '../styles/styles.css';
 
 export default function Header({ page, changePage }) {
 
-    const styles = {
-        header: {
-            background: 'black',
-            color: 'white'
-        },
-        nameStyle: {
-            padding: 10,
-            color: 'white'
-        }
-    }
+    // const styles = {
+    //     header: {
+    //         background: 'black',
+    //         color: 'white',
+    //         display: 'flex'
+    //     },
+    //     nameStyle: {
+    //         padding: 10,
+    //         color: 'white',
+    //         float: 'right'
+    //     },
+    //     nav: {
+    //         display: 'flex',
+    //         right: 0,
+    //     }
+    // }
 
     return (
-        <header style={styles.header}>
-            <h1 className='name' style={styles.nameStyle}>Daryl Empleo</h1>
-            <nav style={styles.nav}>
+        <header className='header'>
+            <h1 className='name'>Daryl Empleo</h1>
+            <nav className="navbar">
                 <a
                     href='#About'
                     onClick={() => changePage('About')}

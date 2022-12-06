@@ -6,6 +6,7 @@ import Project from './Project';
 import Contact from './Contact';
 import Resume from './Resume';
 import '../styles/Navigation.css'
+import '../styles/styles.css'
 
 export default function Navigation() {
     const [page, setPage] = useState('About')
@@ -33,6 +34,7 @@ export default function Navigation() {
         <nav>
             <Header currentPage={page} changePage={changePage} />
             {renderPage()}
+            <Footer />
         </nav>
     )
 }
