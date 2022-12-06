@@ -24,7 +24,6 @@
     /* background-color: purple; */
     padding-top: 10px;
     padding-bottom: 10px;
-
 }
 
 .stickyFooter {
@@ -48,8 +47,8 @@ a {
 
 .navbar a {
     background-color: grey;
-    margin-bottom: auto;
-    margin-top: auto;
+    margin: 5px;
+
 }
 
 .about {
@@ -101,4 +100,38 @@ a {
 .contact-form {
     padding-top: 3vh;
     padding-left: 4vw;
+}
+
+.projects {
+    display: block;
+}
+
+.project {
+    display: flex;
+    border: 10px solid black;
+    width: 50vw;
+    height: 30vh;
+    padding: 10px;
+    margin: 2px;
+    background-size: 100% 100%;
+    margin-bottom: 15px;
+    overflow: clip;
+}
+
+.project a {
+    display: inline-block;
+}
+
+.project h3 {
+    padding: 5px;
+    background: black;
+}
+
+.project h4 {
+    padding: 5px;
+    background: black;
+}
+
+.project p {
+    background: grey;
 }
