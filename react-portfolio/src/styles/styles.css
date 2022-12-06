@@ -85,3 +85,20 @@ a {
     text-align: center;
 }
 
+.contact p {
+    display: block;
+}
+
+.contact input {
+    display: block;
+    width: 25vw;
+}
+
+.contact-page-info  {
+    display: inline-block;
+}
+
+.contact-form {
+    padding-top: 3vh;
+    padding-left: 4vw;
+}
