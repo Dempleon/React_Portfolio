@@ -4,22 +4,6 @@ import '../styles/styles.css';
 
 export default function Header({ page, changePage }) {
 
-    // const styles = {
-    //     header: {
-    //         background: 'black',
-    //         color: 'white',
-    //         display: 'flex'
-    //     },
-    //     nameStyle: {
-    //         padding: 10,
-    //         color: 'white',
-    //         float: 'right'
-    //     },
-    //     nav: {
-    //         display: 'flex',
-    //         right: 0,
-    //     }
-    // }
 
     return (
         <header className='header'>

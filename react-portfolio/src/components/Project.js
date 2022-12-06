@@ -5,9 +5,9 @@ export default function Project (){
 
     return (
         <div className='page'>
-            <p>
-                this is the projects page
-            </p>
+            <div>
+                
+            </div>
         </div>
     )
    

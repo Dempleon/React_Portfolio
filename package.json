@@ -1,0 +1,28 @@
+{
+  "name": "react_portfolio",
+  "version": "1.0.0",
+  "description": "a project portfolio built using react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dempleon/React_Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dempleon/React_Portfolio/issues"
+  },
+  "homepage": "https://github.com/Dempleon/React_Portfolio#readme",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "bootstrap": "^5.2.3",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
